@@ -1,0 +1,61 @@
+﻿{
+    "yepyeniYepyeni": [
+      {
+        "id": 0,
+        "name": "GÖRSEL BASKILI METAL AKSESUARLI BLUZ",
+        "price": "599,00 ₺",
+        "durumu": "YENİ",
+        "img": "https://img2-twist.mncdn.com/mnresize/800/-//Twist/products/SS23/Koleksiyon/TS1230006108041.jpg"
+      },
+      {
+        "id": 1,
+        "name": "GÖRSEL BASKILI BELİ ELASTİK MİDİ ETEK",
+        "price": "999,00 ₺",
+        "durumu": "YENİ",
+        "img": "https://img2-twist.mncdn.com/mnresize/800/-//Twist/products/SS23/Koleksiyon/TS1230004076041.jpg"
+      },
+      {
+        "id": 2,
+        "name": "MAKROME DETAYLI OVERSIZE SWEATSHIRT",
+        "price": "2.299,00 ₺",
+        "durumu": "YENİ",
+        "img": "https://img2-twist.mncdn.com/mnresize/800/-//Twist/products/SS23/Koleksiyon/TS1230091021082.JPG"
+      },
+      {
+        "id": 3,
+        "name": "KROŞE BÜSTİYERLİ CROP T-SHIRT",
+        "price": "1.199,00 ₺",
+        "durumu": "YENİ",
+        "img": "https://img2-twist.mncdn.com/mnresize/800/-//Twist/products/SS23/Koleksiyon/TS1230070076018.JPG"
+      },
+      {
+        "id": 4,
+        "name": "TEKNİK KUMAŞ CEP KAPAKLI BLUZ",
+        "price": "1.199,00 ₺",
+        "durumu": "YENİ",
+        "img": "https://img2-twist.mncdn.com/mnresize/800/-//Twist/products/SS23/Koleksiyon/TS1230006104001.jpg"
+      },
+      {
+        "id": 5,
+        "name": "COLORBLOCK RUGAN MIX PARDÖSÜ",
+        "price": "2.599,00 ₺",
+        "durumu": "YENİ",
+        "img": "https://img2-twist.mncdn.com/mnresize/800/-//Twist/products/SS23/Koleksiyon/TS1230011029018.JPG"
+      },
+      {
+        "id": 6,
+        "name": "PÜSKÜL ŞERİTLİ ÖRGÜ MIX TRİKO",
+        "price": "1.999,00 ₺",
+        "durumu": "YENİ",
+        "img": "https://img2-twist.mncdn.com/mnresize/800/-//Twist/products/SS23/Koleksiyon/TS1230050088018.jpg"
+      },
+      {
+        "id": 7,
+        "name": "YIRTMAÇLI DANTEL ELBİSE",
+        "price": "1.799,00 ₺",
+        "durumu": "YENİ",
+        "img": "https://img2-twist.mncdn.com/mnresize/800/-//Twist/products/SS23/Koleksiyon/TS1230002299001.JPG"
+      }
+    ],
+
+  }
